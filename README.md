@@ -1,5 +1,5 @@
 # People-and-Cars 
-This project is developed to fulfill the assignment of an Advanced topic for the developer.
+This project is developed  for Apollo server w/ Express and React Apollo client assignment.
 
 
 ## Prerequisites
